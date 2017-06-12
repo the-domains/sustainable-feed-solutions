@@ -28,8 +28,5 @@ author:
   name: SUZZETTE TAMEZ CRUZ
   email: scubasuset@gmail.com
   url: 'https://about.me/Suxz'
-purpose:
-  - type: contact
-    url: 'mailto:info.gaiatan@gmail.com'
-    label: Contact us
+purpose: []
 github: true
