@@ -29,9 +29,6 @@ author:
   email: scubasuset@gmail.com
   url: 'https://about.me/Suxz'
 purpose:
-  - type: phone
-    url: 'tel:5219992988998'
-    label: Talk to us
   - type: contact
     url: 'mailto:info.gaiatan@gmail.com'
     label: Contact us
