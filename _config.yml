@@ -1,3 +1,16 @@
+layout_spectrum: 0.519512220887412
+typography_spectrum: 0.9976973188603943
+color:
+  brandStrength: 0.1589934918854275
+  lightness: 0.4196948510750501
+  saturation: 0.5812159191860383
+  rhythmicContrast: 0.28807152892057186
+  brandColors:
+    - '#0B0C0E'
+    - '#FCF9EA'
+    - '#F7B846'
+    - '#7D8B68'
+    - '#EA7B34'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -6,19 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: SUSTAINABLE FEED SOLUTIONS
-layout_spectrum: 0.6680565057322383
-typography_spectrum: 0.8666098124813288
-color:
-  brandStrength: 0.12000857037492096
-  lightness: 0.7503885955084115
-  saturation: 0.4109168143477291
-  rhythmicContrast: 0.8043191095348448
-  brandColors:
-    - '#D8CAA8'
-    - '#5C832F'
-    - '#284907'
-    - '#382513'
-    - '#363942'
 content: []
 title: 'Proteina sustentable, natural y local'
 description: ' Somos la primer empresa en México que produce proteína a base de insectos. Ofrecemos un producto de alta calidad, sustentable y local que genera valor ambiental y social. '
