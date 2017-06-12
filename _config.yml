@@ -28,5 +28,8 @@ author:
   name: SUZZETTE TAMEZ CRUZ
   email: scubasuset@gmail.com
   url: 'https://about.me/Suxz'
-purpose: []
+purpose:
+  - type: external
+    url: 'https://scubasuset.clickfunnels.com/optin'
+    label: Haz click aquí para saber más
 github: true
