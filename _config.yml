@@ -112,5 +112,8 @@ purpose:
   - type: external
     url: 'https://scubasuset.clickfunnels.com/optin'
     label: Haz click aquí para saber más
+  - type: internal
+    label: Productos
+    item: 2209aa07-d1d1-4d97-9e2d-f8cde678e795
 github: true
 url: 'https://thegrid.ai/agroteina/'
