@@ -111,7 +111,7 @@ author:
 purpose:
   - type: external
     url: 'https://scubasuset.clickfunnels.com/optin'
-    label: Haz click aquí para saber más
+    label: 'https://scubasuset.clickfunnels.com/optin'
   - type: internal
     label: Productos
     item: 2209aa07-d1d1-4d97-9e2d-f8cde678e795
