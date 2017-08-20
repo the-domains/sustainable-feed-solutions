@@ -55,7 +55,6 @@ content:
         Tecnia. En AGROTEINA desarrollamos un sistema de producción sustentable
         usando productos secundarios de bajo valor provenientes de la industria
         cervecera y la agrícola.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=KQZUOZSOUD8&feature=applinks'
@@ -114,3 +113,4 @@ purpose:
     url: 'https://scubasuset.clickfunnels.com/optin'
     label: Haz click aquí para saber más
 github: true
+url: 'https://thegrid.ai/agroteina/'
