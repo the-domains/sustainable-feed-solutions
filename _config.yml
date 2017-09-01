@@ -102,8 +102,7 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 title: 'Proteina sustentable, natural y local'
 description: Alimento de alta calidad proteica a base de insectos
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc7bf0fb-a8af-4270-8cb5-8f953b6e8018.jpg
+logo: null
 author:
   name: >-
     SUSTAINABLE FEED SOLUTIONS S.A.P.I. de C.V. Todos los derechos reservados.
