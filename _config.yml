@@ -37,7 +37,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -47,7 +46,8 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 title: ' '
 description: ' '
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ace0b572-d780-4aad-9f78-0667be1315c4.png
 author:
   name: >-
     SUSTAINABLE FEED SOLUTIONS S.A.P.I. de C.V. Todos los derechos reservados.
@@ -63,3 +63,5 @@ purpose:
     item: 2209aa07-d1d1-4d97-9e2d-f8cde678e795
 github: true
 url: 'https://www.agroteina.com'
+opengraph:
+  type: 'https://www.facebook.com/Agroteina/'
