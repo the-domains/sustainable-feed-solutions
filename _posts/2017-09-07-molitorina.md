@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: MOLITORINA
-dateModified: '2017-09-07T21:07:55.687Z'
-datePublished: '2017-09-07T21:07:56.718Z'
+dateModified: '2017-09-07T21:10:47.008Z'
+datePublished: '2017-09-07T21:10:47.625Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-09-07-molitorina.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-09-07T21:07:56.718Z'
-sourcePath: _posts/2017-09-07-molitorina.md
-_type: Blurb
+url: molitorina/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91f2a425-be80-4849-b6fb-0a31048e1779.jpg)
