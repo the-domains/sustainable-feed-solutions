@@ -6,9 +6,9 @@ description: >-
   agrícola. Para lograr esto, usamos insectos y transformamos dichos materiales
   en recursos; en nutrientes sustentables para la industria avícola y acuícola,
   como algunas mascotas.
-dateModified: '2017-09-08T03:27:52.589Z'
-datePublished: '2017-09-08T03:27:52.721Z'
-title: ¿Qué hacemos?
+dateModified: '2017-09-08T22:33:23.146Z'
+datePublished: '2017-09-08T22:33:23.811Z'
+title: ¿Qué ofrecemos?
 author: []
 publisher: {}
 via: {}
@@ -18,8 +18,6 @@ datePublishedOriginal: '2017-09-07T22:18:46.546Z'
 _type: Blurb
 
 ---
-## ¿Qué hacemos?
-
 En AGROTEINA desarrollamos un sistema de producción sustentable usando productos secundarios de bajo valor provenientes de la industria cervecera y agrícola. Para lograr esto, usamos insectos y transformamos dichos materiales en recursos; en nutrientes sustentables para la industria avícola y acuícola, como algunas mascotas.
 
 Los insectos están compuestos de proteína, lípidos y quitina. Nuestras tecnologías habilitan una solución económicamente efectiva en cuanto a la producción de proteína y productos derivados como el abono orgánico y la quitina.
