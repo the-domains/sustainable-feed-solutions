@@ -6,8 +6,8 @@ description: >-
   agrícola. Para lograr esto, usamos insectos y transformamos dichos materiales
   en recursos; en nutrientes sustentables para la industria avícola y acuícola,
   como algunas mascotas.
-dateModified: '2017-09-08T03:27:34.352Z'
-datePublished: '2017-09-08T03:27:35.520Z'
+dateModified: '2017-09-08T03:27:52.589Z'
+datePublished: '2017-09-08T03:27:52.721Z'
 title: ¿Qué hacemos?
 author: []
 publisher: {}
