@@ -6,16 +6,16 @@ description: >-
   nacional a través de la reducción de importación de fuentes de proteína
   (harinas a base de soya, garbanzo, pescado en polvo) por las industrias
   productoras de alimento balanceado.
-dateModified: '2017-09-07T21:53:19.297Z'
-datePublished: '2017-09-07T21:53:20.240Z'
+dateModified: '2017-09-08T22:34:09.757Z'
+datePublished: '2017-09-08T22:34:09.910Z'
 title: 'EN AGROTEINA OFRECEMOS UNA SOLUCIÓN AMBIENTAL, LOCAL Y SUSTENTABLE'
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2017-09-07T21:53:20.240Z'
 sourcePath: >-
   _posts/2017-09-07-en-agroteina-ofrecemos-una-solucion-ambiental-local-y-suste.md
+starred: false
+datePublishedOriginal: '2017-09-07T21:53:20.240Z'
 _type: Blurb
 
 ---
