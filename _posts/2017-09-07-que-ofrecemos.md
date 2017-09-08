@@ -6,8 +6,8 @@ description: >-
   agrícola. Para lograr esto, usamos insectos y transformamos dichos materiales
   en recursos; en nutrientes sustentables para la industria avícola y acuícola,
   como algunas mascotas.
-dateModified: '2017-09-08T01:33:41.954Z'
-datePublished: '2017-09-08T01:33:42.587Z'
+dateModified: '2017-09-08T01:34:04.872Z'
+datePublished: '2017-09-08T01:34:05.660Z'
 title: ¿Qué ofrecemos?
 author: []
 publisher: {}
@@ -32,4 +32,5 @@ Nuestro producto estrella Molitorina, es una harina hecha a base de larvas de in
 * Pavos
 * Peces (Tilapia)
 * Peces de ornato
-* Mascotas
+
+Mascotas
