@@ -5,8 +5,8 @@ description: >-
   la cual resultamos ganadores (junto con otros tres equipos). En ese entonces
   éramos Plastic-Off y después del proceso de incubación en Parque TecniA, nos
   convertimos en Agroteina.
-dateModified: '2017-09-08T22:32:29.681Z'
-datePublished: '2017-09-08T22:32:30.295Z'
+dateModified: '2017-09-08T22:34:09.757Z'
+datePublished: '2017-09-08T22:34:09.900Z'
 title: ¿Quiénes somos?
 author: []
 publisher: {}
