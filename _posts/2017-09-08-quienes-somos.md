@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ¿Quiénes somos?
-dateModified: '2017-09-08T02:48:41.253Z'
-datePublished: '2017-09-08T02:48:42.262Z'
+dateModified: '2017-09-08T03:27:52.589Z'
+datePublished: '2017-09-08T03:27:52.718Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-09-08-quienes-somos.md
 starred: false
 datePublishedOriginal: '2017-09-08T02:48:42.262Z'
-sourcePath: _posts/2017-09-08-quienes-somos.md
 _type: Blurb
 
 ---
