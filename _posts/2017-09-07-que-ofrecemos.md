@@ -6,8 +6,8 @@ description: >-
   agrícola. Para lograr esto, usamos insectos y transformamos dichos materiales
   en recursos; en nutrientes sustentables para la industria avícola y acuícola,
   como algunas mascotas.
-dateModified: '2017-09-09T01:45:23.702Z'
-datePublished: '2017-09-09T01:45:24.180Z'
+dateModified: '2017-09-09T01:48:40.745Z'
+datePublished: '2017-09-09T01:48:41.437Z'
 title: ¿Qué ofrecemos?
 author: []
 publisher: {}
@@ -18,8 +18,6 @@ datePublishedOriginal: '2017-09-07T22:18:46.546Z'
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a3c0be9-a521-46ff-9603-dd13c891b555.jpg)
-
 En AGROTEINA desarrollamos un sistema de producción sustentable usando productos secundarios de bajo valor provenientes de la industria cervecera y agrícola. Para lograr esto, usamos insectos y transformamos dichos materiales en recursos; en nutrientes sustentables para la industria avícola y acuícola, como algunas mascotas.
 
 Los insectos están compuestos de proteína, lípidos y quitina. Nuestras tecnologías habilitan una solución económicamente efectiva en cuanto a la producción de proteína y productos derivados como el abono orgánico y la quitina.
@@ -33,3 +31,4 @@ Nuestro producto estrella Molitorina, es una harina hecha a base de larvas de in
 * Peces (Tilapia)
 * Peces de ornato
 * Mascotas
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f77af56f-6e66-4446-ac29-c9647a25fbe1.jpg)
